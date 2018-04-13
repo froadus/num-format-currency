@@ -1,8 +1,8 @@
-**Usage:**
+**Example usage:**
 
 ```js
 // All settings are optional
-let format = require('./index')({
+let format = require('num-format-currency')({
   suffix: ' USD',
   prefix: '$',
   decimalSeparator: '.',
