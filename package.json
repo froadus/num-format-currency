@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/froadus/number-formatjs.git"
+    "url": "git+https://github.com/froadus/num-format-currency.git"
   },
   "keywords": [
     "numbers",
@@ -19,7 +19,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/froadus/number-formatjs/issues"
+    "url": "https://github.com/froadus/num-format-currency/issues"
   },
-  "homepage": "https://github.com/froadus/number-formatjs#readme"
+  "homepage": "https://github.com/froadus/num-format-currency#readme"
 }
