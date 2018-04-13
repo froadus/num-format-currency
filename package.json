@@ -1,0 +1,25 @@
+{
+  "name": "num-format-currency",
+  "version": "1.0.1",
+  "description": "Number formatting library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/froadus/number-formatjs.git"
+  },
+  "keywords": [
+    "numbers",
+    "number",
+    "format",
+    "currency"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/froadus/number-formatjs/issues"
+  },
+  "homepage": "https://github.com/froadus/number-formatjs#readme"
+}
